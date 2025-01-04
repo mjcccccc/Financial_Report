@@ -1,5 +1,8 @@
 # Financial Report Analysis using Power BI
 
+![Screenshot 2025-01-04 000920](https://github.com/user-attachments/assets/127f9daa-b100-4f21-90ac-3e6307f62a36)
+
+
 ## Overview  
 This project involves creating a comprehensive financial report using **Power BI**. The goal is to deliver an accurate, insightful, and interactive dashboard tailored for CFO review, highlighting key performance metrics such as revenue, profit margins, discounts, and more.  
 
